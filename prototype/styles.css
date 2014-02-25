@@ -1,0 +1,10 @@
+div, span{
+    border: solid 2px black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#page-wrapper {
+    width: 960px;
+    margin: auto;
+}
