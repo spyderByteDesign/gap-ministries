@@ -1,0 +1,193 @@
+#wrapper {
+    width: 1080px;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    color: #006ab7;
+    margin: 0 auto;
+}
+
+#body {
+    background-color: #DDE9F2;
+    border-top:0px solid #006ab7;
+
+
+    padding:0px 15px 15px 15px;
+    margin:0px;
+    overflow: hidden;
+}
+
+.nav {
+    margin:60px 20px 25px 10px;
+    font-size:24px;
+    float:left;
+}
+
+#logo {
+
+    margin-top:30px;
+    margin-right:25px;
+    margin-bottom:50px;
+    margin-left:10px;
+    float:left;
+}
+
+.social {
+    margin:55px 0px 15px 20px;
+    float:left;
+}
+
+#donate {
+    position:absolute;
+    width:230px;
+    margin-top:280px;
+    margin-left:-900px;
+}
+
+#gap {
+    float:right;
+    position:absolute;
+    width:300px;
+    margin-top:340px;
+    margin-left:-345px;
+}
+
+#skyline {
+    clear:both;
+    margin-bottom: 0px;
+}
+
+#skyline img {
+    width: 1060px;
+    margin-left:10px;
+    margin-top:200px;
+    border-bottom:20px solid #006ab7;
+}
+
+.info {
+    padding:35px 65px 10px 65px;
+    width: 125px;
+}
+
+.rep {
+    font-size:20px;
+    font-weight:500;
+    color: #579932;
+    margin:5px 5px 50px 55px;
+}
+
+.rep2 {
+    font-size:20px;
+    font-weight:500;
+    color: #579932;
+    margin:0px 5px 50px 55px;
+}
+
+.fed {
+    font-size:20px;
+    font-weight:500;
+    color: #579932;
+    margin:5px 5px 50px 45px;
+}
+
+.fed2 {
+    font-size:20px;
+    font-weight:500;
+    color: #579932;
+    margin:5px 5px 50px 55px;
+}
+
+#body-region2 {
+    margin: 0px 0px 0px 0px;
+}
+
+.news {
+    text-align:center;
+    font-size:24px;
+    font-weight:200;
+    color:white;
+    background-color:#006ab7;
+    margin-top:0px;
+}
+
+.news-events {
+    width: 290px;
+    float: left;
+    margin: 50px 15px 0px 28px;
+    background: #DDE9F2;
+    border: 5px solid #006ab7;
+    border-bottom: 10px solid #006ab7;
+    min-height: 220px;
+}
+
+#mission {
+
+    float:left;
+    margin:35px 0px 0px 30px;
+}
+
+#mission-content {
+    position: absolute;
+    margin-top:75px;
+    margin-left:755px;
+    text-align:center;
+    font-size:20px;
+    color:#C8022E;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.badges {
+    float: left;
+    width: 255px;
+    margin-top:40px;
+}
+
+#body-region3 {
+    margin:0px 0px 40px 130px;
+}
+
+span {
+    font-size:40px;
+    font-weight:400;
+    color:  #579932;
+    margin-top:30px;
+    margin-bottom:30px;
+    margin-left:10px;
+}
+
+#body-region4 {
+}
+
+.info-boxes {
+    float:left;
+    margin:0px 0px 40px 30px;
+}
+
+#GAP-graphic {
+    position:absolute;
+    margin: 150px 0px 0px 750px;
+}
+
+#body-region5 {
+    float:left;
+    margin:0px 50px 0px 0px;
+}
+
+#body-region6 {
+    float:left;
+}
+
+#body-region7 {
+    float:left;
+}
+
+.heading {
+    font-size:30px;
+    color: #006ab7;
+    margin: 100px 0px 30px 400px;
+}
+
+.text {
+    margin: 0px 20px 30px 400px;
+}
